@@ -1,0 +1,8 @@
+E:\[KF-GIT-SB004]-TranBaoLong\Spon\bin\Debug\Spon.exe.config
+E:\[KF-GIT-SB004]-TranBaoLong\Spon\bin\Debug\Spon.exe
+E:\[KF-GIT-SB004]-TranBaoLong\Spon\bin\Debug\Spon.pdb
+E:\[KF-GIT-SB004]-TranBaoLong\Spon\obj\Debug\Spon.csproj.AssemblyReference.cache
+E:\[KF-GIT-SB004]-TranBaoLong\Spon\obj\Debug\Spon.csproj.SuggestedBindingRedirects.cache
+E:\[KF-GIT-SB004]-TranBaoLong\Spon\obj\Debug\Spon.csproj.CoreCompileInputs.cache
+E:\[KF-GIT-SB004]-TranBaoLong\Spon\obj\Debug\Spon.exe
+E:\[KF-GIT-SB004]-TranBaoLong\Spon\obj\Debug\Spon.pdb
